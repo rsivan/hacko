@@ -1,0 +1,12 @@
+5 3
+4 3
+5 5
+4 2
+2 3
+
+
+o o o o X
+o X Q o o
+o o o o o
+o o X o o
+o o o o o
